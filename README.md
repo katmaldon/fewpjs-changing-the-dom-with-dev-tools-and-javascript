@@ -75,7 +75,7 @@ with delete key in the DevTools with JavaScript. In DevTools, click the
 At the bottom you will see a cursor. There, type the word `document` and press
 "Enter." You'll get a `#document` returned. If you click the disclosure
 triangle, you'll see that it's the exact HTML that you would find in the
-**Elements** tab. 
+**Elements** tab.
 
 _Note: `disclosure triangle` is the triangle that is on the left side of the
 `#document`. It is hiding the HTML that wouldn't normally be shown. It is good
@@ -152,3 +152,6 @@ going to give you `methods` for selecting elements and changing them, but you
 just changed the DOM. High fives are in order.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/fewpjs-changing-the-dom-with-dev-tools-and-javascript'>Changing the DOM with DevTools and JavaScript</a> on Learn.co and start learning to code for free.</p>
+
+
+// git test
